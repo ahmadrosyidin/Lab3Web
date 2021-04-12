@@ -51,5 +51,6 @@
 ![image](https://user-images.githubusercontent.com/81254764/114366999-33bf8d00-9ba6-11eb-8e01-32799c59506a.png)
 ![image](https://user-images.githubusercontent.com/81254764/114367065-40dc7c00-9ba6-11eb-8fcb-a839bbc8b40c.png)
 
-4. Buat file CSS
-![image](https://user-images.githubusercontent.com/81254764/114367500-b21c2f00-9ba6-11eb-95b2-b377e7c5bf6b.png)
+4. Tambahkan perintah untuk membuat style
+![image](https://user-images.githubusercontent.com/81254764/114371174-6ec3bf80-9baa-11eb-8d62-78492fe5956b.png)
+![image](https://user-images.githubusercontent.com/81254764/114371203-78e5be00-9baa-11eb-84a6-cba0361e3433.png)
